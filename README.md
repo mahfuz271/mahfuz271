@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Mahfuzar Rahman</h1>
+<h1 align="center">Hi 👋, I'm Mahfuzar Rahman</h1>
 <h5 align="center">
 Highly motivated and experienced Full-stack web developer with 5+ years of experience in developing websites using PHP and Javascript. Expert in creating user-friendly and visually appealing websites using HTML, CSS, JavaScript, and I have a strong understanding of server-side technologies such as PHP, MySQL, and Node.js. I am also familiar with frameworks such as React, Express and Laravel.
 </h5>
