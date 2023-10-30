@@ -1,9 +1,8 @@
 <p align="center" ><img alt="" src="https://i.ibb.co/Dkc32c8/Mahfuzar-Mahfuz-Rahman.jpg" width="auto" height="auto" /></p>
-<br>
 🚀 Experienced Full-stack Web Developer | Passionate About Crafting Exceptional Web Solutions
 <br>
 
-
+<br><br><br>
 <h1>📞 Let's Connect:</h1>
 
 If you're seeking a reliable, skilled, and innovative Full-stack Web Developer to bring your web project to life, I'd love to hear from you. Feel free to reach out for a chat or to discuss how we can collaborate
